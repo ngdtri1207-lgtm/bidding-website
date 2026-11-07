@@ -1,6 +1,6 @@
 package com.auction.model;
 
-public abstract class Item  extends Entity{
+public abstract class Item extends Entity{
   protected String name;
   protected double startingPrice;
   
